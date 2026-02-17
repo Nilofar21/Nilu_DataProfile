@@ -2,7 +2,7 @@
 
 **Hi, I'm Nilu 👋**
 
-**Technical Business Analyst | E-commerce, Fintech & Capital Markets**
+**Business Analyst cum Product Owner | E-commerce, Fintech & Capital Markets**
 
 I specialize in architecting scalable solutions at the intersection of Finance, e-Commerce, and Technology. By combining Agile frameworks with SQL-driven data analysis, I translate complex stakeholder visions into high-performing technical products.
 
