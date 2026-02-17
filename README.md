@@ -16,9 +16,11 @@ I specialize in architecting scalable solutions at the intersection of Finance, 
   
 ---->  **Capital Markets:** Understanding of Trade Lifecycles, Portfolio Management, and Market Data Feeds.
 
-**Technical Skills:** SQL (Joins, CTEs, Aggregations), BPMN 2.0 Process Mapping, and API Documentation.
+**Technical Skills:** 
+SQL (Joins, CTEs, Aggregations), BPMN 2.0 Process Mapping, and API Documentation.
 
-**Agile Proficiency:** JIRA, Confluence, Scrum Ceremonies, and writing INVEST-standard User Stories (Gherkin).
+**Agile Proficiency:** 
+JIRA, Confluence, Scrum Ceremonies, and writing INVEST-standard User Stories (Gherkin).
 
 **📂 Featured Strategic Projects**
 
@@ -52,7 +54,7 @@ Artifacts: Backlog Management (JIRA), User Stories, BPMN 2.0 flows.
 
 **Relational Design:** Creating ERDs for multi-vendor E-commerce platforms and Stock trading logs.
 
-## 🛠️ Overall Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 - **Analysis:** BRD, FSD, User Stories, Acceptance Criteria (Gherkin).
 - **Domain:** Payments, KYC/AML, "Buy Now, Pay Later" (BNPL).
 - **Tools:** SQL (PostgreSQL/MySQL), JIRA, Confluence, LucidChart (BPMN 2.0).
