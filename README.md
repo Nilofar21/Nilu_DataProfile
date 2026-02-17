@@ -14,7 +14,7 @@ I specialize in architecting scalable solutions at the intersection of Finance, 
   
 ---->  **Fintech & Banking:** Payments (UPI/Cards), KYC/AML Compliance, and BNPL Credit Models.
   
----->  **Capital Markets:** Understanding of Trade Lifecycles, Portfolio Management, and Market Data Feeds.
+---->  **Capital Markets:** Understanding of stock market trends and Portfolio Management.
 
 **Technical Skills:** 
 SQL (Joins, CTEs, Aggregations), BPMN 2.0 Process Mapping, and API Documentation.
