@@ -4,17 +4,17 @@
 
 **Technical Business Analyst | E-commerce, Fintech & Capital Markets**
 
-I specialize in architecting scalable solutions at the intersection of Finance, Retail, and Technology. By combining Agile frameworks with SQL-driven data analysis, I translate complex stakeholder visions into high-performing technical products.
+I specialize in architecting scalable solutions at the intersection of Finance, e-Commerce, and Technology. By combining Agile frameworks with SQL-driven data analysis, I translate complex stakeholder visions into high-performing technical products.
 
 **🛠️ Core Expertise & Tech Stack**
 
 **Domain Knowledge:**
 
-  **E-commerce:** Order Management Systems (OMS), Shopping Cart Logic, and Inventory Workflows.
+---->  **E-commerce:** Order Management Systems (OMS), Shopping Cart Logic, and Inventory Workflows.
   
-  **Fintech & Banking:** Payments (UPI/Cards), KYC/AML Compliance, and BNPL Credit Models.
+---->  **Fintech & Banking:** Payments (UPI/Cards), KYC/AML Compliance, and BNPL Credit Models.
   
-  **Capital Markets:** Understanding of Trade Lifecycles, Portfolio Management, and Market Data Feeds.
+---->  **Capital Markets:** Understanding of Trade Lifecycles, Portfolio Management, and Market Data Feeds.
 
 **Technical Skills:** SQL (Joins, CTEs, Aggregations), BPMN 2.0 Process Mapping, and API Documentation.
 
@@ -34,20 +34,19 @@ Artifacts:  BRD, API Mapping Docs, User Journey Maps.
 
 **Project: Portfolio Tracking & Market Sentiment Analysis**
 
-**Impact:** Designed database schemas to track real-time stock price movements and user portfolio valuations using complex SQL Joins and Window Functions.
+Impact: Designed database schemas to track real-time stock price movements and user portfolio valuations using complex SQL Joins and Window Functions.
 
-**Artifacts:**  ER Diagrams, SQL Query Library, FSD.
+Artifacts:  ER Diagrams, SQL Query Library, FSD.
 
 **💳 Fintech: BNPL System Design**
+
 **Project: End-to-end Credit-Lending Platform Architecture**
 
-**Impact:** Defined the "Definition of Ready" (DoR) for a Scrum team to build a modular BNPL engine, ensuring 100% compliance with KYC/AML regulations.
+Impact: Defined the "Definition of Ready" (DoR) for a Scrum team to build a modular BNPL engine, ensuring 100% compliance with KYC/AML regulations.
 
-**Artifacts:** Backlog Management (JIRA), User Stories, BPMN 2.0 flows.
+Artifacts: Backlog Management (JIRA), User Stories, BPMN 2.0 flows.
 
-**📊 SQL & Data Capabilities**
-
-"I don't just gather requirements; I validate them with data."
+**📊 SQL & Data Capabilities** "I don't just gather requirements; I validate them with data."
 
 **Data Mapping:** Bridging legacy finance systems with modern SQL databases.
 
